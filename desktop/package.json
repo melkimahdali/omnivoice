@@ -1,0 +1,16 @@
+{
+  "name": "omnivoice-desktop",
+  "private": true,
+  "main": "main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "start:cmd": "electron . --profile=cmd1",
+    "start:u1": "electron . --profile=1",
+    "start:u2": "electron . --profile=2",
+    "start:u3": "electron . --profile=3"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7",
+    "electron-builder": "^26.0.12"
+  }
+}

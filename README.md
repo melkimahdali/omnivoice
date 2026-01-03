@@ -1,2 +1,0 @@
-# omnivoice
-omnivoice repo

@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.env
+desktop/node_modules
